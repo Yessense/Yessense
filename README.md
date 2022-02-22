@@ -44,3 +44,15 @@ My contribution to the project was the idea, project management, data collection
 width=100% >
 
 *Screenshot from the game*
+
+# Script-Extracting
+
+Extracting scripts from text and their vector-symbol representation.
+This work is my graduation project.
+
+[Repository](https://github.com/Yessense/map-script)
+
+Sample text|  Script visualization
+:-------------------------:|:-------------------------:
+![](projects/script_extraction/separate_scripts_example.jpg)  |  ![](projects/script_extraction/text_6.png)
+
