@@ -26,7 +26,7 @@ My contribution to the project was the idea, project management, the selection a
 pytorch, data collection, model training, the demonstration of the project at the open house.
 
 <img src="projects/neural_robot/neural_robot.png" alt="Controlling the robot with eeg signals"
-width=50% >
+width=75% >
 
 *Controlling the robot with eeg signals*
 
@@ -37,6 +37,8 @@ neuro-headset recognizes whether you are tense now or not. From there you can in
 tension: make objects fly up in the air, draw a lightsaber, or release destructive lightning from your hand!
 
 My contribution to the project was the idea, project management, data collection, model training.
+
+[Repository](https://github.com/RTUITLab/NeuralJedi)
 
 <img src="projects/neural_jedi/neural_jedi.png" alt="Controlling the robot with eeg signals"
 width=100% >
