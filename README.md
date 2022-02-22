@@ -17,5 +17,7 @@
 
 # Projects
 
-<img caption="Controlling the robot with eeg signals" src="projects/neural_robot/neural_robot.png" alt="asdfasdf"
+<img src="projects/neural_robot/neural_robot.png" alt="Controlling the robot with eeg signals"
 width=50% >
+
+*Controlling the robot with eeg signals*
