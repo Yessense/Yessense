@@ -13,9 +13,9 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yessense&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
 
-<img align="center" src="projects/neural_robot/neural_robot.png" alt="drawing" width=50%/>
+<img caption="Controlling the robot with eeg signals" src="projects/neural_robot/neural_robot.png" alt="asdfasdf"
+width=50% >
