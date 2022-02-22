@@ -18,6 +18,7 @@
 # Projects
 
 ## Neural Robot
+
 We read brain activity using the Emotiv Epoc+ headset. Then we classify into 5 classes: forward, backward, left, right,
 neutral. The output of the model is the control signal for the robot.
 
@@ -30,3 +31,10 @@ width=50% >
 *Controlling the robot with eeg signals*
 
 ## Neural Jedi
+
+In this game you can feel like a real Jedi (provided you have a neuro-headset...) By reading brain signals, the
+neuro-headset recognizes whether you are tense now or not. From there you can interact with the game space through
+tension: make objects fly up in the air, draw a lightsaber, or release destructive lightning from your hand!
+
+<img src="projects/neural_jedi/neural_jedi.png" alt="Controlling the robot with eeg signals"
+width=100% >
