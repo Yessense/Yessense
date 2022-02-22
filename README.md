@@ -3,3 +3,7 @@
 <h3 align="center">Computer science student, Intern Research Engineer from Russia 🇷🇺</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yessense&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projects
+
+<img align="center" src="projects/neural_robot/neural_robot.png" alt="drawing" width=50%/>
