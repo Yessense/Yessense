@@ -15,7 +15,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
 
-
 # Projects
 
 ## Neural Robot
@@ -24,7 +23,7 @@ We read brain activity using the Emotiv Epoc+ headset. Then we classify into 5 c
 neutral. The output of the model is the control signal for the robot.
 
 My contribution to the project was the idea, project management, the selection and implementation of the classifier on
-pytorch, the demonstration of the project at the open house.
+pytorch, data collection, model training, the demonstration of the project at the open house.
 
 <img src="projects/neural_robot/neural_robot.png" alt="Controlling the robot with eeg signals"
 width=50% >
@@ -37,5 +36,9 @@ In this game you can feel like a real Jedi (provided you have a neuro-headset...
 neuro-headset recognizes whether you are tense now or not. From there you can interact with the game space through
 tension: make objects fly up in the air, draw a lightsaber, or release destructive lightning from your hand!
 
+My contribution to the project was the idea, project management, data collection, model training.
+
 <img src="projects/neural_jedi/neural_jedi.png" alt="Controlling the robot with eeg signals"
 width=100% >
+
+*Screenshot from the game*
