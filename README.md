@@ -47,8 +47,7 @@ width=100% >
 
 # Script-Extracting
 
-Extracting scripts from text and their vector-symbol representation.
-This work is my graduation project.
+Extracting scripts from text and their vector-symbol representation. This work is my graduation project.
 
 [Repository](https://github.com/Yessense/map-script)
 
@@ -58,9 +57,9 @@ Sample text|  Script visualization
 
 # Dsprites scene reconstruction
 
-
 [Repository](https://github.com/Yessense/dsprites-disentanglement)
 
 Left and right images are exchanged by the same feature
 
-![](projects/script_extraction/separate_scripts_example.jpg)  |  ![](projects/dsprites_scene/dsprites_scene.png)
+<img src="projects/dsprites_scene/dsprites_scene.png" alt="Controlling the robot with eeg signals"
+width=75% >
