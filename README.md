@@ -56,3 +56,11 @@ Sample text|  Script visualization
 :-------------------------:|:-------------------------:
 ![](projects/script_extraction/separate_scripts_example.jpg)  |  ![](projects/script_extraction/text_6.png)
 
+# Dsprites scene reconstruction
+
+
+[Repository](https://github.com/Yessense/dsprites-disentanglement)
+
+Left and right images are exchanged by the same feature
+
+![](projects/script_extraction/separate_scripts_example.jpg)  |  ![](projects/dsprites_scene/dsprites_scene.png)
