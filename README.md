@@ -63,3 +63,5 @@ Left and right images are exchanged by the same feature
 
 <img src="projects/dsprites_scene/dsprites_scene.png" alt="Controlling the robot with eeg signals"
 width=75% >
+
+*Dsprites experiments*
