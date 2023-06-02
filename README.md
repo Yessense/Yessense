@@ -83,7 +83,6 @@ width=100% >
 Extracting scripts from text and their vector-symbol representation. This work is my
 graduation project.
 
-
-                         Sample text                          |  Script visualization
-:------------------------------------------------------------:|:-------------------------:
- ![](projects/script_extraction/separate_scripts_example.jpg) |  ![](projects/script_extraction/text_6.png)
+Sample text|  Script visualization
+:-------------------------:|:-------------------------:
+![](projects/script_extraction/separate_scripts_example.jpg)  |  ![](projects/script_extraction/text_6.png)
