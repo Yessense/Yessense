@@ -22,18 +22,13 @@
 
 https://airi.net/ru/articles/symbolic-disentangled-representations-in-hyperdimensional-latent-space/
 
-The idea of the disentangled representations is to reduce the data to a set of gen-
-erative factors which generate it. Usually, such representations are vectors in the
-latent space, in which each coordinate corresponds to one of the generative fac-
-tors. Then the object represented in this way can be modified by changing the
+The idea of the disentangled representations is to reduce the data to a set of generative factors which generate it. Usually, such representations are vectors in the
+latent space, in which each coordinate corresponds to one of the generative factors. Then the object represented in this way can be modified by changing the
 value of a specific coordinate. But first, we need to determine which coordinate
-handles the desired generative factor, which can be complex with a high vector di-
-mension. In this paper, we propose to represent each generative factor as a vector
+handles the desired generative factor, which can be complex with a high vector dimension. In this paper, we propose to represent each generative factor as a vector
 of the same dimension as the resulting representation. This is possible by using
-Hyperdimensional Computing principles (also known as Vector Symbolic Archi-
-tectures), which represent symbols as high-dimensional vectors. They allow us
-to operate on symbols using vector operations, which leads to a simple and inter-
-pretable modification of the object in the latent space. We show it on the objects
+Hyperdimensional Computing principles (also known as Vector Symbolic Architectures), which represent symbols as high-dimensional vectors. They allow us
+to operate on symbols using vector operations, which leads to a simple and interpretable modification of the object in the latent space. We show it on the objects
 from dSprites and CLEVR datasets and provide an extensive analysis of learned
 symbolic disentangled representations in hyperdimensional latent space.
 
