@@ -74,14 +74,3 @@ Extracting scripts from text and their vector-symbol representation. This work i
 Sample text|  Script visualization
 :-------------------------:|:-------------------------:
 ![](projects/script_extraction/separate_scripts_example.jpg)  |  ![](projects/script_extraction/text_6.png)
-
-# Dsprites scene reconstruction
-
-[Repository](https://github.com/Yessense/dsprites-disentanglement)
-
-Left and right images are exchanged by the same feature
-
-<img src="projects/dsprites_scene/dsprites_scene.png" alt="Controlling the robot with eeg signals"
-width=75% >
-
-*Dsprites experiments*
