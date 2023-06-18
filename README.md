@@ -15,7 +15,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
 
-# Projects
+# Research Projects
 
 ## Symbolic disentangled representations in hyperdimensional latent space
 
@@ -38,6 +38,29 @@ to operate on symbols using vector operations, which leads to a simple and inter
 modification of the object in the latent space. We show it on the objects
 from dSprites and CLEVR datasets and provide an extensive analysis of learned
 symbolic disentangled representations in hyperdimensional latent space.
+
+## Evaluation of Pretrained Large Language Models in Embodied Planning Tasks
+
+### Published as a conference paper at AGI 2023
+
+[ [`Paper`](https://link.springer.com/chapter/10.1007/978-3-031-33469-6_23) ] [ [`Repo`](https://github.com/Yessense/llm_planning) ]
+
+Modern pretrained large language models (LLMs) are in-
+creasingly being used in zero-shot or few-shot learning modes. Recent
+years have seen increased interest in applying such models to embod-
+ied artificial intelligence and robotics tasks. When given in a natural
+language, the agent needs to build a plan based on this prompt. The
+best solutions use LLMs through APIs or models that are not publicly
+available, making it difficult to reproduce the results. In this paper, we
+use publicly available LLMs to build a plan for an embodied agent and
+evaluate them in three modes of operation: 1) the subtask evaluation
+mode, 2) the full autoregressive plan generation, and 3) the step-by-step
+autoregressive plan generation. We used two prompt settings: prompt-
+containing examples of one given task and a mixed prompt with examples
+of different tasks. Through extensive experiments, we have shown that
+the subtask evaluation mode, in most cases, outperforms others with a
+task-specific prompt, whereas the step-by-step autoregressive plan gen-
+eration posts better performance in the mixed prompt setting.
 
 ## Neural Robot
 
