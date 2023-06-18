@@ -45,22 +45,19 @@ symbolic disentangled representations in hyperdimensional latent space.
 
 [ [`Paper`](https://link.springer.com/chapter/10.1007/978-3-031-33469-6_23) ] [ [`Repo`](https://github.com/Yessense/llm_planning) ]
 
-Modern pretrained large language models (LLMs) are in-
-creasingly being used in zero-shot or few-shot learning modes. Recent
-years have seen increased interest in applying such models to embod-
-ied artificial intelligence and robotics tasks. When given in a natural
-language, the agent needs to build a plan based on this prompt. The
-best solutions use LLMs through APIs or models that are not publicly
-available, making it difficult to reproduce the results. In this paper, we
-use publicly available LLMs to build a plan for an embodied agent and
-evaluate them in three modes of operation: 1) the subtask evaluation
-mode, 2) the full autoregressive plan generation, and 3) the step-by-step
-autoregressive plan generation. We used two prompt settings: prompt-
-containing examples of one given task and a mixed prompt with examples
-of different tasks. Through extensive experiments, we have shown that
-the subtask evaluation mode, in most cases, outperforms others with a
-task-specific prompt, whereas the step-by-step autoregressive plan gen-
-eration posts better performance in the mixed prompt setting.
+Modern pretrained large language models (LLMs) are increasingly being used in zero-shot or
+few-shot learning modes. Recent years have seen increased interest in applying such models
+to embodied artificial intelligence and robotics tasks. When given in a natural language,
+the agent needs to build a plan based on this prompt. The best solutions use LLMs through
+APIs or models that are not publicly available, making it difficult to reproduce the
+results. In this paper, we use publicly available LLMs to build a plan for an embodied
+agent and evaluate them in three modes of operation: 1) the subtask evaluation mode, 2)
+the full autoregressive plan generation, and 3) the step-by-step autoregressive plan
+generation. We used two prompt settings: prompt-containing examples of one given task and
+a mixed prompt with examples of different tasks. Through extensive experiments, we have
+shown that the subtask evaluation mode, in most cases, outperforms others with a
+task-specific prompt, whereas the step-by-step autoregressive plan generation posts better
+performance in the mixed prompt setting.
 
 ## Neural Robot
 
@@ -93,7 +90,6 @@ lightning from your hand!
 My contribution to the project was the idea, project management, data collection, model
 training.
 
-
 <img src="projects/neural_jedi/neural_jedi.png" alt="Controlling the robot with eeg
 signals"
 width=100% >
@@ -101,11 +97,13 @@ width=100% >
 *Screenshot from the game*
 
 # Script-Extracting
+
 [ [`Repo`](https://github.com/Yessense/map-script) ]
 
 Extracting scripts from text and their vector-symbol representation. This work is my
 graduation project.
 
-Sample text|  Script visualization
-:-------------------------:|:-------------------------:
-![](projects/script_extraction/separate_scripts_example.jpg)  |  ![](projects/script_extraction/text_6.png)
+                         Sample text                          |  Script visualization
+
+:------------------------------------------------------------:|:-------------------------:
+![](projects/script_extraction/separate_scripts_example.jpg) |  ![](projects/script_extraction/text_6.png)
